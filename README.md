@@ -11,7 +11,7 @@
 8. Display with Module ( For system monitoring )
 
 <br><br>
-<h2>next Part code implement in Board</h2>
+<h2>NEXT Part code implement in Board</h2>
 1.Need Arduino contro  software
 2.Then Diplay show libaray function
 3.Run the code on sofatre 

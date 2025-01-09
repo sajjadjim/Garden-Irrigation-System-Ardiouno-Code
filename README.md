@@ -9,3 +9,10 @@
 6. Breadboard
 7. wire ( Male to male , Female to Female , Male to Female )
 8. Display with Module ( For system monitoring )
+
+
+##next Part code implement in Board
+1.Need Arduino contro  software
+2.Then Diplay show libaray function
+3.Run the code on sofatre 
+4.Then push thr code on Arduino UNO board
